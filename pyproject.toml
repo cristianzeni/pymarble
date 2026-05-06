@@ -1,0 +1,5 @@
+[project]
+name = "PySide QtQuick Project"
+
+[tool.pyside6-project]
+files = ["logic.py", "main.py", "pymarble/Main.qml", "pymarble/qmldir"]
