@@ -22,6 +22,7 @@ PyMarble è un puzzle game dinamico sviluppato con **Python** (PySide6) e **QML*
 Su **Arch Linux**, installa le dipendenze con:
 ```bash
 sudo pacman -S python-pyside6 openssh
+```
 
 ## ⚖️ Licenza
 
